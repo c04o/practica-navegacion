@@ -24,7 +24,7 @@ Este proyecto es una aplicación de Android desarrollada con **Jetpack Compose**
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/TU_USUARIO/practica-navegacion.git
+    git clone https://github.com/c04o/practica-navegacion.git
     ```
 2.  **Abrir en Android Studio:**
     * Abre Android Studio (versión Iguana 2023.3.1 o superior recomendada).
